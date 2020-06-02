@@ -1,6 +1,6 @@
-# TODO
+# json-object-graph-with-node-postgres
 
-todo
+Build JSON object graphs of SQL data with Node Postgres
 
 ## Setup
 
