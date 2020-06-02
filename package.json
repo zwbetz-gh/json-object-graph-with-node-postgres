@@ -1,0 +1,19 @@
+{
+  "name": "TODO",
+  "description": "TODO",
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "scripts": {
+    "authors": "node src/authors.js",
+    "quotes": "node src/quotes.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.2.1"
+  }
+}
