@@ -1,9 +1,9 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "json-object-graph-with-node-postgres",
+  "description": "Build JSON object graphs of SQL data with Node Postgres",
   "repository": {
     "type": "git",
-    "url": "TODO"
+    "url": "https://github.com/zwbetz-gh/json-object-graph-with-node-postgres"
   },
   "version": "0.1.0",
   "license": "UNLICENSED",
