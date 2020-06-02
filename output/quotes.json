@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "quote": "There is no coming to consciousness without pain.",
+    "author": {
+      "firstName": "Carl",
+      "lastName": "Jung"
+    }
+  },
+  {
+    "id": 2,
+    "quote": "The most terrifying thing is to accept oneself completely.",
+    "author": {
+      "firstName": "Carl",
+      "lastName": "Jung"
+    }
+  },
+  {
+    "id": 3,
+    "quote": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+    "author": {
+      "firstName": "Thomas",
+      "lastName": "Jefferson"
+    }
+  },
+  {
+    "id": 4,
+    "quote": "The man who reads nothing at all is better educated than the man who reads nothing but newspapers.",
+    "author": {
+      "firstName": "Thomas",
+      "lastName": "Jefferson"
+    }
+  }
+]
